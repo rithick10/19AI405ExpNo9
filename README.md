@@ -8,8 +8,6 @@ To solve  Wumpus World Problem using Python demonstrating Inferences from Propos
 </td> 
 <td>
 
-**DATE: 10.04.2024**
-
 </td>
 </tr> 
 </table>
