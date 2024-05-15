@@ -144,7 +144,7 @@ while(player):
                 Your score is: ",score,"\n")
         break
     if(wumpus[row][column]=='PIT'):
-        score-=1000
+        score-=100
         print("Ahhhhh!!!!\nYou fell in pit.
                 \nAnd your score is: ",score,"\n")
         break
